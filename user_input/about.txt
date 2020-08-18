@@ -1,0 +1,3 @@
+Stimuli for collecting user responses
+
+dig_input : simple stimuli for simple digit input validation.
